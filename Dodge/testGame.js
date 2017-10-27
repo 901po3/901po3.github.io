@@ -74,7 +74,7 @@ window.onload = function(){
 		
 		var enemyType = (Math.floor(Math.random() * 4));
 		
-		var enemySpeed = (Math.floor(Math.random() * 5))+3;
+		var enemySpeed = (Math.floor(Math.random() * 6))+3;
 		var run = 0;
 		var rise = 0;
 		
